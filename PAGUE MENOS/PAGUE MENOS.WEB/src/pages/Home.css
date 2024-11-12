@@ -1,0 +1,13 @@
+                                                                        /* src/pages/Home.css */
+.home {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  

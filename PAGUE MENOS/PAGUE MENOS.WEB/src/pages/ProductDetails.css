@@ -1,0 +1,22 @@
+/* src/pages/ProductDetails.css */
+.product-details {
+    display: flex;
+    gap: 40px;
+    padding: 20px;
+  }
+  
+  .product-image {
+    width: 500px;
+    border-radius: 10px;
+  }
+  
+  .product-info {
+    max-width: 400px;
+  }
+  
+  .product-price {
+    color: #121212;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
